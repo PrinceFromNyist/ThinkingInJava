@@ -1,5 +1,11 @@
 package initialization;
-
+/**
+ * Create a class containing an uninitialized String
+ * reference.Demonstrate that this reference is initialized
+ * by Java to null.
+ * @author zengqiang.wang
+ *
+ */
 public class Test1 {
 	String str;
 	public static void main(String[] args) {
